@@ -3,8 +3,8 @@ import type { IFeature } from "../types";
 export const featuresData: IFeature[] = [
     {
         icon: "/assets/zap-icon.svg",
-        title: "Lightning-fast setup",
-        description: "Launch production-ready pages in minutes with prebuilt components.",
+        title: "Smart Analysis",
+        description: "Our AI analyzes video content to suggest the most clickable concepts.",
     },
     {
         icon: (<svg width="33" height="34" viewBox="0 0 33 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.617 13.777V32.43" stroke="url(#a)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /><path d="m21.066 7.377-1.554 6.404h9.062a3.107 3.107 0 0 1 2.984 3.979l-3.621 12.435a3.11 3.11 0 0 1-2.985 2.238H3.968A3.11 3.11 0 0 1 .86 29.325V16.89a3.11 3.11 0 0 1 3.11-3.11h4.29a3.11 3.11 0 0 0 2.782-1.725l5.362-10.71a4.866 4.866 0 0 1 4.663 6.032" stroke="url(#b)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /><defs><linearGradient id="a" x1="9.117" y1="13.777" x2="9.117" y2="32.43" gradientUnits="userSpaceOnUse"><stop stopColor="#E60076" /><stop offset="1" stopColor="#FB64B6" /></linearGradient><linearGradient id="b" x1="16.271" y1="1.346" x2="16.271" y2="32.433" gradientUnits="userSpaceOnUse"><stop stopColor="#E60076" /><stop offset="1" stopColor="#FB64B6" /></linearGradient></defs></svg>),
