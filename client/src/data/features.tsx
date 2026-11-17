@@ -17,4 +17,3 @@ export const featuresData: IFeature[] = [
         description: "Get fully layered designs you can tweak to perfection if needed.",
     },
 ];
-];
